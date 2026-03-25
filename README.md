@@ -30,14 +30,13 @@
 <tr>
   <td>Manual Testing 📝</td>
   <td>Test Automation 🤖</td>
-  <td>API Testing 🌐</td>
-  <td>Regression Testing 🔄</td>
+  <td>Selenium WebDriver</td>
+  <td>TestNG</td>
+  <td>Jenkins</td>
 </tr>
 <tr>
   <td>Functional QA ✅</td>
-  <td>Performance Testing 🚦</td>
-  <td>CI/CD ⚙️</td>
-  <td>Agile/Scrum 🏃‍♂️</td>
+  <td>CI/CD ⚙️</td
 </tr>
 </table>
 
@@ -72,7 +71,7 @@
     <ul>
         <li>Public repositories: 4</li>
         <li>Followers: 0</li>
-        <li>Location: Meerut</li>
+        <li>Location: Hapur</li>
         <li>Hireable: Yes</li>
         <li>Profile views: (see badge above)</li>
     </ul>
@@ -102,7 +101,7 @@
 ## 📫 Contact Me
 
 - 📧 **Email:** gungunsingh8595@gmail.com
-- 📍 **Location:** Meerut
+- 📍 **Location:** Hapur
 - 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/gungun-singh/)
 - 🖥️ **GitHub:** [gungun-explorer](https://github.com/gungun-explorer)
 
